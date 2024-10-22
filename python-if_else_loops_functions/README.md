@@ -1,0 +1,1 @@
+These will be different activities about loops and conditions in python
