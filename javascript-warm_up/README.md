@@ -1,1 +1,1 @@
-These wll be different tasks to get introduced to javascript
+These will be different tasks to get introduced to javascript
