@@ -1,0 +1,1 @@
+different activities about javascript objects and functions
