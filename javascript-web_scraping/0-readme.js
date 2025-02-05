@@ -1,4 +1,6 @@
-t request = require('fs');
+#!/usr/bin/node
+
+const request = require('fs');
 
 const filePath = process.argv[2];
 
